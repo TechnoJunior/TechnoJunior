@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechnoJunior - a Software Developer at Softaculous Ltd
+- 👋 Hey There, @TechnoJunior here - a Full-Stack Developer at Indicosmic Capital Pvt Ltd.
 
 <!---
 TechnoJunior/TechnoJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
